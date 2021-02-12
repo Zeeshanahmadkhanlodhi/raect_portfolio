@@ -1,0 +1,25 @@
+.blog{
+    background-color: white;
+    box-shadow: -2px 3px 15px -5px rgba(79,79,79,0.5);
+    border-radius: 10px;
+    padding: 10px;
+    width: 50vw;
+
+
+    
+}
+#blog_img{
+    min-width: 45vw;
+    
+}
+
+@media(max-width:800px){
+   
+    .blog{
+        width: 60vw;
+    }
+
+    #blog_img{
+        min-width: 50vw
+    }
+}

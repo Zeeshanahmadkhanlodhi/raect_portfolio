@@ -1,0 +1,35 @@
+.filters{
+    background-color: white;
+    box-shadow: -2px 3px 15px -5px rgba(79,79,79,0.5);
+    border-radius: 10px;
+    padding:0.4rem;
+  
+}
+
+button{
+    padding: 8px 20px;
+    background-color: transparent;
+   
+    border: 1px solid rgb(80, 80, 216);
+    border-radius: 10px;
+}
+
+button:active{
+    background-color: rgb(80, 80, 216);
+    color: white;
+}
+.projects{
+    display: flex;
+   
+}
+
+.filter{
+    text-align: right;
+    
+}
+
+.filter button{
+    padding: 5px 9px;
+    border-radius: 8px;
+    border: 1px solid black;
+}

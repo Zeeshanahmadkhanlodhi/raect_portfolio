@@ -1,0 +1,13 @@
+.hobbies{
+    background-color: white;
+    box-shadow: -2px 3px 15px -5px rgba(79,79,79,0.5);
+    border-radius: 10px;
+    padding: 30px;
+
+   
+   
+}
+figure img{
+  
+   width: 20vw;
+}

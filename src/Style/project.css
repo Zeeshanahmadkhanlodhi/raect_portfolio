@@ -1,0 +1,33 @@
+
+.project{
+    background-color: white;
+    box-shadow: -2px 3px 15px -5px rgba(79,79,79,0.5);
+    border-radius: 10px;
+    padding:0.4rem;
+ 
+    width: 33vw;
+}
+.image{
+     display: flex;
+    justify-content: center;
+}
+.project img{
+   
+ object-fit: cover;
+    
+}
+
+.intro{
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.demo__btn{
+    color: white;
+    background-color: rgb(80, 80, 216);
+    font-weight: 600;
+}
